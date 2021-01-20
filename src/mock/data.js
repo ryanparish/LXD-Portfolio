@@ -60,6 +60,24 @@ export const projectsData = [
     url: 'https://priceless-heisenberg-657dbd.netlify.app/story.html',
     // repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'RG-activity.png',
+    title: "Rockin' Out the Roller Grill",
+    info: 'When MAPCO decided to launch a Roller Grill program at each of its ~350 locations, we knew we needed to build an interactive and lighthearted course to support the initiative.',
+    info2: 'In this section, learners were provided a video demonstration of how to start up the grill and get product ready for the guests-- followed with an interactive activity to check their understanding. ',
+    url: 'https://goofy-villani-529cbb.netlify.app/story.html',
+    // repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Thawing-Product.png',
+    title: 'Thawing Product',
+    info: "Also taken from the Rockin' Out the Roller Grill course, this section taught learners how to properly thaw and store product to ensure that there was enough to meet guest demand.",
+    info2: 'As was the format used throughout the rest of the course, the section combined video demonstrations with interactive activities to ensure retention. In addition to using the videos in the course itself, these were also added as performance support materials in our online Operations Manual. ',
+    url: 'https://sad-bhabha-e771b2.netlify.app/story.html',
+    // repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
