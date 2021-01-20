@@ -1,9 +1,9 @@
 import { nanoid } from 'nanoid';
 import { Container, Row, Col } from "react-bootstrap";
-import newShirt from "../src/video/new-shirt.mp4";
-import cleaningRG from "../src/video/cleaning-rg.mp4";
-import ourCalling from "../src/video/our-calling.mp4";
-import justSmile from "../src/video/just-smile.mp4";
+import newShirt from "../video/new-shirt.mp4";
+import cleaningRG from "../video/cleaning-rg.mp4";
+import ourCalling from "../video/our-calling.mp4";
+import justSmile from "../video/just-smile.mp4";
 
 
 // HEAD DATA
