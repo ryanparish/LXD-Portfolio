@@ -1,5 +1,9 @@
 import { nanoid } from 'nanoid';
 import { Container, Row, Col } from "react-bootstrap";
+import newShirt from "../src/video/new-shirt.mp4";
+import cleaningRG from "../src/video/cleaning-rg.mp4";
+import ourCalling from "../src/video/our-calling.mp4";
+import justSmile from "../src/video/just-smile.mp4";
 
 
 // HEAD DATA
@@ -35,7 +39,7 @@ export const projectsData = [
     title: 'New Shirt',
     info: "This project was a ton of fun! We were asked to present MAPCO's HR Initiatives to its international sister companies in a best practices meeting in Santiago, Chile.",
     info2: 'I had 5 days to create a concept, shoot, and edit a video for an international audience that could highlight these initiatives without needing to be translated into multiple languages. This is the result.',
-    url: "",
+    url: newShirt,
   //   repo: '', // if no repo, the button will not show up
   },
   {
@@ -44,7 +48,7 @@ export const projectsData = [
     title: "Our Calling",
     info: 'When the COVID-19 pandemic began to take hold of the US in March 2020, MAPCO sprung into action-- implementing a variety of health and safety measures in stores, and expanded health and welfare benefits to team members. My task was to succinctly convey how MAPCO had risen to the occasion of the crisis.',
     info2: ' Since non-retail personnel were not allowed into the stores when this video was created, I turned to animation (instead of our typical video-based approach) to convey this message. This is the English version, but I also produced a version in Spanish. ',
-    url: "",
+    url: ourCalling,
     // repo: '', // if no repo, the button will not show up
   },
   {
