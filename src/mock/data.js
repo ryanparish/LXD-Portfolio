@@ -4,6 +4,7 @@ import newShirt from "../video/new-shirt.mp4";
 import cleaningRG from "../video/cleaning-rg.mp4";
 import ourCalling from "../video/our-calling.mp4";
 import justSmile from "../video/just-smile.mp4";
+import cookieVideo from "../video/Cookie-Video.mp4";
 
 
 // HEAD DATA
@@ -78,6 +79,16 @@ export const projectsData = [
     url: 'https://sad-bhabha-e771b2.netlify.app/story.html',
     // repo: '', // if no repo, the button will not show up
   },
+{
+  id: nanoid(),
+  img: 'GS-Cookies.png',
+  title: '2020 Girl Scout Cookie Promotional Video',
+  info: "Okay, this one is just for cuteness points. My daughter, Maggie, is a proud member of the Girl Scouts, and wanted to go big this year by producing a promotional video to post online.",
+  info2: 'We worked together to put together a short script, which we filmed in our living room. #ThinMints4Ever',
+  url: cookieVideo,
+  // repo: '', // if no repo, the button will not show up
+},
+
 ];
 
 // CONTACT DATA
