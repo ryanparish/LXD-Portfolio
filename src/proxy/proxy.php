@@ -3,6 +3,7 @@
 error_reporting( error_reporting() & ~E_NOTICE );
 
 header('Access-Control-Allow-Origin: *');
+echo 'This page works!';
 
 $url = $_GET['url'];
 $acadId = $_GET["acadId"];
