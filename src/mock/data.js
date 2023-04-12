@@ -9,7 +9,7 @@ import cookieVideo from "../video/Cookie-Video.mp4";
 
 // HEAD DATA
 export const headData = {
-  title: 'Ryan Parish | Instructional Design Portfolio', // e.g: 'Name | Developer'
+  title: 'Ryan Parish | Learning Portfolio', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
@@ -18,7 +18,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Ryan Parish.',
-  subtitle: "I'm a Senior Instructional Designer and Learning Strategist.",
+  subtitle: "I'm a Learning and Development Leader and xAPI Expert.",
   cta: '',
 };
 
