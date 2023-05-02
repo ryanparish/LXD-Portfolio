@@ -7,7 +7,7 @@ import PortfolioContext from '../../context/context';
 
 const About = () => {
   const { about } = useContext(PortfolioContext);
-  const { img, paragraphOne, paragraphTwo, paragraphThree, paragraphFour, resume } = about;
+  const { img, paragraphOne, paragraphTwo, paragraphThree, paragraphFour, paragraphFive, resume } = about;
 
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -34,7 +34,7 @@ const About = () => {
               </div>
             </Fade>
           </Col>
-          <Col md={6} sm={12}>
+          <Col md={7} sm={14}>
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
