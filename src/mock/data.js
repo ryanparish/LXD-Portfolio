@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'arcade-home.png',
     title: 'Cracker Barrel Arcade',
-    info: 'This project was the culmination in a 3-Month effort by me and three of my direct reports to create reinforcement games to support the Thanksgiving Holiday at Cracker Barrel.',
+    info: 'This project was the culmination of a 3-month effort by me and three of my direct reports to create reinforcement games to support the Thanksgiving Holiday at Cracker Barrel.',
     info2: 'While the games are proprietary and can’t be shared here (contact me directly if you’d like me to take you through the production version), the interface and all the code behind it are not, and are a wonder to behold!',
     url: 'https://peppy-sorbet-36ce81.netlify.app/story.html',
   //   repo: '', // if no repo, the button will not show up
