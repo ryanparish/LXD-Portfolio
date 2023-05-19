@@ -30,7 +30,7 @@ export const aboutData = {
   paragraphThree: "I believe that everyone has the potential for greatness, but that potential is often limited by fear, an attempt to hide weaknesses, and being unwilling to ask for help.",
   paragraphFour: "I understand how to remove those barriers-- empowering teams to live up to their true potential.",
   paragraphFive: "I've spent the past few years putting those lessons into practice, leading and developing a team of seven direct and indirect reports into a high-performing, collaborative force.",
-  resume: 'https://resume.io/r/VLu9fOOQd',
+  resume: 'https://resume.io/r/r59vuyj7u',
 }; 
 
 // PROJECTS DATA
